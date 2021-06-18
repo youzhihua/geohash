@@ -3,7 +3,7 @@ package geohash_test
 import (
 	"fmt"
 
-	"github.com/mmcloughlin/geohash"
+	"github.com/youzhihua/geohash"
 )
 
 func Example() {

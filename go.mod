@@ -1,1 +1,1 @@
-module github.com/mmcloughlin/geohash
+module github.com/youzhihua/geohash
